@@ -4,7 +4,7 @@
       <el-alert type="info" show-icon :closable="false">
         <p>"Full Name" label is automatically attached to the input:</p>
       </el-alert>
-      <el-form-item label="Full Name">
+      <el-form-item label="Full Namee">
         <el-input v-model="formAccessibility.fullName" />
       </el-form-item>
     </el-space>
